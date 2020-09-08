@@ -1,10 +1,5 @@
 # PHP Fast Simple HTML DOM Parser (fork)
 
-[![Build Status](https://travis-ci.org/dimabdc/PHP-Fast-Simple-HTML-DOM-Parser.svg?branch=master)](https://travis-ci.org/dimabdc/PHP-Fast-Simple-HTML-DOM-Parser)
-[![Total Downloads](https://poser.pugx.org/dimabdc/php-fast-simple-html-dom-parser/downloads)](https://packagist.org/packages/dimabdc/php-fast-simple-html-dom-parser)
-[![Latest Stable Version](https://poser.pugx.org/dimabdc/php-fast-simple-html-dom-parser/v/stable)](https://packagist.org/packages/dimabdc/php-fast-simple-html-dom-parser)
-[![License](https://poser.pugx.org/dimabdc/php-fast-simple-html-dom-parser/license)](https://packagist.org/packages/dimabdc/php-fast-simple-html-dom-parser)
-
 PHP Fast Simple HTML DOM Parser - fast and low mamory usage HTML DOM Parser with syntax like PHP Simple HTML DOM Parser
 
 ## Установка
